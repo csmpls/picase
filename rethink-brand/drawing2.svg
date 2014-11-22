@@ -25,17 +25,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="315.33761"
-     inkscape:cy="649.38226"
+     inkscape:cx="308.44099"
+     inkscape:cy="747.74051"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1418"
-     inkscape:window-height="1161"
+     inkscape:window-width="1920"
+     inkscape:window-height="1200"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -61,10 +61,10 @@
        sodipodi:rx="140"
        sodipodi:ry="39.285713"
        d="m 480,383.07648 a 140,39.285713 0 1 1 -280,0 140,39.285713 0 1 1 280,0 z"
-       transform="matrix(1.4192931,0,0,1.1888488,-125.29739,37.317465)" />
+       transform="matrix(1.4192931,0,0,1.1888488,-125.29739,39.6174)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 358.90333,604.68449 0.0626,-247.94017 -179.17779,-17.21599 180.65376,17.47079 170.77779,17.29757 -172.31633,-16.95063 z"
+       d="m 358.90333,630.68449 0.0626,-273.94017 -182.17779,-71.21599 183.65376,71.47079 210.77779,77.29757 -212.31633,-76.95063 z"
        id="path3767"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
@@ -85,7 +85,7 @@
        d="m 495.02089,134.70938 c -4.91192,-22.13758 -44.53356,5.49547 -34.05293,15.69377 10.48063,10.19831 5.55807,8.52356 21.73138,-14.59785 16.1733,-23.12141 -31.29533,-15.67917 -18.10369,-12.76751 13.19163,2.91166 11.75094,-1.93334 2.21896,8.37841 -9.53199,10.31175 19.95964,-36.530025 -2.12601,-15.60388 -22.08565,20.92613 36.56855,6.54241 28.15618,-6.465 -8.41237,-13.007411 -8.93561,40.51696 -22.87884,34.93858 -13.94323,-5.57838 1.58928,-13.53639 9.7974,-29.64711 8.20811,-16.110728 20.64427,46.30782 -2.61627,27.25846 -23.26053,-19.04936 22.78573,14.9497 17.87382,-7.18787 z"
        inkscape:transform-center-x="-0.28647588"
        inkscape:transform-center-y="-1.4539237"
-       transform="matrix(0.39405892,0,0,0.35021903,290.29373,255.22401)" />
+       transform="matrix(0.39405892,0,0,0.35021903,290.29373,229.82354)" />
     <path
        sodipodi:type="star"
        style="fill:#000000;stroke:#000000;stroke-width:10.51386833;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -103,7 +103,7 @@
        d="m 365.8,160.06218 5.19459,48.56947 -11.33923,-47.51209 -44.5871,19.94914 41.68267,-25.4663 L 324,119.36218 l 37.10054,31.77306 24.34591,-42.34683 -18.75328,45.10312 47.79753,10.06844 z"
        inkscape:transform-center-x="2.6295133"
        inkscape:transform-center-y="-1.157026"
-       transform="matrix(0.12916274,0,0,0.12916274,370.07028,205.96072)" />
+       transform="matrix(0.12916274,0,0,0.12916274,370.07028,180.56025)" />
     <path
        sodipodi:type="star"
        style="fill:#000000;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -121,7 +121,7 @@
        d="M 230,232.36218 C 89.70389,263.5391 316.35382,326.50577 219.20577,220.59423 122.05771,114.68269 165.26349,345.91475 208.41154,208.82628 251.55959,71.73783 83.703889,236.53909 224,205.36218 364.29612,174.18527 142.44039,95.986539 239.58846,201.89808 336.73652,307.80962 277.94229,80.04168 234.79423,217.13013 191.64617,354.21859 370.29612,201.18526 230,232.36218 z"
        inkscape:transform-center-x="0.16942417"
        inkscape:transform-center-y="-0.32868321"
-       transform="matrix(0.09717802,0,0,0.09717802,216.01869,266.27963)" />
+       transform="matrix(0.09717802,0,0,0.09717802,216.01869,240.87916)" />
     <path
        sodipodi:type="star"
        style="fill:#000000;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -138,7 +138,7 @@
        inkscape:randomized="0"
        d="m 323,166.36218 -4.76314,-8.25 -4.76314,-8.25 9.52628,0 9.52628,0 -4.76314,8.25 z"
        inkscape:transform-center-y="1.6981305"
-       transform="matrix(0.61750213,0,0,0.61750213,118.52053,119.01568)" />
+       transform="matrix(0.61750213,0,0,0.61750213,118.52053,93.61521)" />
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -153,19 +153,19 @@
        xml:space="preserve"
        id="flowRoot3868"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.98000004;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-23,-95)"><flowRegion
+       transform="translate(-26.970563,-97.45584)"><flowRegion
          id="flowRegion3870"><rect
            id="rect3872"
            width="312"
            height="54"
            x="321"
            y="146.36218" /></flowRegion><flowPara
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:2.18000007px;font-family:Tibetan Machine Uni;-inkscape-font-specification:Tibetan Machine Uni"
+         style="font-size:26px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:2.18000007px;font-family:Tibetan Machine Uni;-inkscape-font-specification:Tibetan Machine Uni"
          id="flowPara3930">cd ../.. ls</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3868-7"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-56.914162,607.04334)"><flowRegion
+       transform="translate(-91.683715,603.52862)"><flowRegion
          id="flowRegion3870-8"><rect
            id="rect3872-6"
            width="312"
@@ -173,5 +173,5 @@
            x="321"
            y="146.36218" /></flowRegion><flowPara
          id="flowPara3874-1"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:2.18000007px;font-family:Tibetan Machine Uni;-inkscape-font-specification:Tibetan Machine Uni">rethink computer</flowPara></flowRoot>  </g>
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:2.18000007px;font-family:Tibetan Machine Uni;-inkscape-font-specification:Tibetan Machine Uni">rethink computer</flowPara></flowRoot>  </g>
 </svg>
